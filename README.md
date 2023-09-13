@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there. I'm, Greicyellem👋</h1>
-<h3 align="center">A fullstack developer student from Brazil.</h3>
+<h3 align="center">A <em>fullstack developer</em> student from Brazil.</h3>
 
   <div align="center">
         <img src="https://lrcomunicacao.com.br/images/dese-1.gif" width="300px"
