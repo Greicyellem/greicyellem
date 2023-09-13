@@ -3,7 +3,7 @@
 <h3 align="center">A <em>fullstack developer</em> student from Brazil.</h3>
 
   <div align="center">
-        <img src="https://lrcomunicacao.com.br/images/dese-1.gif" width="300px"
+        <img src="https://lrcomunicacao.com.br/images/dese-1.gif" width="500px"
 
 <br>
 
